@@ -1,7 +1,7 @@
 Setup
 Create a virtual environment:
 python -m venv env
-On Windows use `new\Scripts\activate`
+use `env\Scripts\activate`
 
 Install dependencies:
 pip install -r requirements.txt
